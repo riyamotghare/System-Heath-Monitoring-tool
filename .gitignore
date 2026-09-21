@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database (contains your own test tickets)
+tickets.db
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
